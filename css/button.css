@@ -1,0 +1,13 @@
+.bnt{
+    border: solid 2px burlywood;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vw;
+    width: 20vw;
+    margin: auto;
+    background-color: #ffffff00;
+    color: #fff;
+    font-size: 2vw;
+}

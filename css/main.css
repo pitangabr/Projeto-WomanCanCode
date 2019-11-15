@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap&subset=cyrillic,cyrillic-ext');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Lobster', cursive;
+}
